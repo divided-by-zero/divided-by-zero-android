@@ -484,5 +484,6 @@
   <project path="device/samsung/i9100" name="divided-by-zero/android_device_samsung_i9100" revision="cm-11.0"/>
   <project path="device/samsung/galaxys2-common" name="divided-by-zero/android_device_samsung_galaxys2-common" revision="cm-11.0"/>
   <project path="kernel/samsung/smdk4412" name="divided-by-zero/android_kernel_samsung_smdk4412" revision="cm-11.0"/>
+  <project path="hardware/samsung/" name="divided-by-zero/android_hardware_samsung" revision="cm-11.0"/>
 
 </manifest>
